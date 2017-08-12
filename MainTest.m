@@ -9,3 +9,5 @@ vXData  =   [1,2,3,4,5];
 vYData  =   exp(vXData);
 plot(vXData , vYData)
 
+xlabel('sec')
+ylabel('Fanliang')
